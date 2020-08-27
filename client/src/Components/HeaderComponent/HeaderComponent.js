@@ -8,11 +8,11 @@ import './HeaderComponent.css';
 
 export default function HeaderComponent() {
     return(
-        <Navbar>
+        <Navbar fixed='top'>
             <Navbar.Brand>
                 <h1 className='brand' >Foody</h1>
             </Navbar.Brand>
-            <Nav className='ml-auto'>
+            <Nav>
                 <Nav.Item className='mr-2'>
                     <Nav.Link className='link' style={{ color: '#000', paddingLeft: '1rem',
                         paddingRight: '1rem' }}>
