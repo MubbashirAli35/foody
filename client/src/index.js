@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import './Fonts/DancingScript-VariableFont_wght.ttf';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import App from './App';
