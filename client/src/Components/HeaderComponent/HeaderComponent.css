@@ -2,3 +2,8 @@
     font-family: DancingScript;
     color: #ed441a;
 }
+
+.link {
+    border-right: 1px solid #dbdbdb;
+    border-left: 1px solid #dbdbdb;
+}
