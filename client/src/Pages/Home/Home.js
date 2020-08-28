@@ -18,6 +18,10 @@ export default function Home() {
                     We'll deliver it, just prepare the food
                 </h3>
             </Col>
+
+            <Container className='restaurantService' fluid>
+
+            </Container>
         </Container>
     );
 }
